@@ -1,4 +1,4 @@
-# Projeto_Final_Desenvolvimento_Desktop
+# Bibl.io
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/ThielG/Projeto_Final_Desenvolvimento_Desktop/main/imagens/5.png" width="100%">
